@@ -1,3 +1,22 @@
+# get the repos
+git clone https://github.com/BoumedineBillal/object-detection-yolo.git
+cd object-detection-yolo
+
+# update the repo
 git add .
 git commit -m "Add files and folders: commit0"
 git push origin master
+
+# update the local repo
+git merge origin/main
+
+
+
+# agenda 
+
+1. Setting Up Kaggle and Downloading Car Plate Detection Dataset
+2. Data Preprocessing and YOLO Labeling
+3. Custom IoU Metric Function
+4. YOLO-based Object Detection Model Architecture
+5. Train the model
+6. Test the model

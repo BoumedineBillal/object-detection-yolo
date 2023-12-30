@@ -54,7 +54,7 @@ Welcome to the Object Detection YOLO Workshop! This repository contains a simpli
 
 ## Colab Notebook
 
-- [Colab Notebook](<Insert Colab Notebook Link Here>)
+- [Colab Notebook](https://github.com/BoumedineBillal/object-detection-yolo/blob/main/yolo_workshop.ipynb)
 
 ## License
 

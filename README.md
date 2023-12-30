@@ -1,6 +1,6 @@
-# Car Plate Detection Workshop
+# Object Detection YOLO
 
-Welcome to the Car Plate Detection Workshop! This repository contains a simplified implementation of object detection using the YOLO (You Only Look Once) algorithm. The goal is to provide an educational resource for understanding the fundamentals of YOLO-based object detection.
+Welcome to the Object Detection YOLO Workshop! This repository contains a simplified implementation of object detection using the YOLO (You Only Look Once) algorithm. The goal is to provide an educational resource for understanding the fundamentals of YOLO-based object detection.
 
 ## Features
 
@@ -51,6 +51,10 @@ Welcome to the Car Plate Detection Workshop! This repository contains a simplifi
 
 - [Link to Kaggle dataset](https://www.kaggle.com/andrewmvd/car-plate-detection)
 - Additional resources and references will be provided during the workshop.
+
+## Colab Notebook
+
+- [Colab Notebook](<Insert Colab Notebook Link Here>)
 
 ## License
 

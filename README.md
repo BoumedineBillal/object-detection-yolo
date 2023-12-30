@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BoumedineBillal/object-detection-yolo/blob/main/yolo_workshop.ipynb)
+
 # Object Detection YOLO
 
 Welcome to the Object Detection YOLO Workshop! This repository contains a simplified implementation of object detection using the YOLO (You Only Look Once) algorithm. The goal is to provide an educational resource for understanding the fundamentals of YOLO-based object detection.

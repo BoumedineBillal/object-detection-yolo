@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BoumedineBillal/object-detection-yolo/blob/main/yolo_workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BoumedineBillal/object-detection-yolo/blob/main/yolo_workshop.ipynb)
 
 # Object Detection YOLO
 

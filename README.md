@@ -41,6 +41,9 @@ Welcome to the Object Detection YOLO Workshop! This repository contains a simpli
    - Visualization of model predictions
    - Discussion of results and potential improvements
 
+7. **Workshop challenge**
+   - The challenge is to implement the `calculate_grid_for_point` function, which takes a point's x and y coordinates along with the grid size and returns the corresponding grid indices.
+   
 ## Prerequisites
 
 - Basic knowledge of Python and deep learning concepts.
